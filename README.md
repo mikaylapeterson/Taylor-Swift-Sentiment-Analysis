@@ -1,5 +1,5 @@
 # Taylor Swift Sentiment Analysis Using Twitter
-This project will involve collecting tweets containing the keyphrase, 'Taylor Swift' or mention her Twitter, @taylorswift13 and analyzing these tweets as being positive, negative, or neutral.
+This project will involve collecting tweets containing the keyphrase, **'Taylor Swift'** or mention her Twitter, **@taylorswift13** and analyzing these tweets as being positive, negative, or neutral.
 
 **Research Question:** How has the public perception of Taylor Swift changed over the years (i.e. overall positive, negative, or neutral)?
 
