@@ -11,4 +11,4 @@ The opening shows of the tour were in Glendale, AZ on March 17th and 18th and th
 Here is a link to the [Kanban Board](https://github.com/users/mikaylapeterson/projects/2/views/2).
 
 ## Project Website
-Here is a link to the [Project Website] (https://mikaylapeterson.github.io/Taylor-Swift-Sentiment-Analysis/)
+Here is a link to the [Project Website](https://mikaylapeterson.github.io/Taylor-Swift-Sentiment-Analysis/).
